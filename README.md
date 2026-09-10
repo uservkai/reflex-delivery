@@ -38,8 +38,8 @@ Reflex provides one shared delivery record that is visible across the delivery w
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd reflex-delivery-app
+git clone https://github.com/uservkai/reflex-delivery
+cd reflex-delivery
 ```
 
 Install dependencies:
